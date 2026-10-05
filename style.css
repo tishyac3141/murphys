@@ -1,0 +1,10 @@
+.menu {
+    background-color: darkgreen;
+    padding-bottom:15px;
+    padding-top:7px;
+}
+
+.menu-items {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
