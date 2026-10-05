@@ -9,6 +9,15 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+.menu-items h4 {
+    transition: color 0.2s ease;
+    cursor: pointer;
+}
+
+.menu-items h4:hover {
+    color: blue; /* swap for your hover color */
+}
+
 .main-body {
     background-image: url('https://courses.ics.hawaii.edu/ics314f26/morea/ui-frameworks/murphys-new-background.jpeg');
     background-size: cover;
