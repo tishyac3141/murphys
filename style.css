@@ -8,3 +8,14 @@
     color: white;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.main-body {
+    background-image: url('https://courses.ics.hawaii.edu/ics314f26/morea/ui-frameworks/murphys-new-background.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+.text-center{
+    color: white;
+}
